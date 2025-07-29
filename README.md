@@ -21,5 +21,5 @@
 |-----------|------------------------------|
 | **frontend**  | React.js, Tailwind CSS        |
 | **backend**   | Node.js                      |
-| **database**  | (ระบุฐานข้อมูลถ้ามี)           |
+| **database**  | PostgreSQL           |
 
